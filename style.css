@@ -1,4 +1,9 @@
 .name {
     text-align: center;
+    color: green;
+}
+.roni {
+    background-color: aqua;
     color: red;
+    padding: 10px 20px;
 }
